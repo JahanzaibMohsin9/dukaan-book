@@ -49,7 +49,7 @@ lib/
 └── features/   accounts, auth, dashboard, ledger, onboarding, reports, settings, sync, notifications
 supabase/
 └── migrations/ schema, RLS policies, shop members, join_shop RPC
-docs/           architecture, database schema, MVP scope, Supabase setup
+docs/           architecture, database schema, Supabase setup
 ```
 
 ## Getting started
